@@ -1,10 +1,12 @@
 ## Matheus Batista
 
-Estudante de Engenharia Elétrica na UFMG se aventurando no mundo de Ciência de Dados, Machine learning e Deep learning.
+Atualmente estudante de Engenharia Elétrica na UFMG se aventurando no mundo de Ciência de Dados, Machine learning e Deep learning.
 
+
+- 👨🏻‍💻 Entusiasta por tecnologia e dados.
 - :weight_lifting_man: Apaixonado por esportes, especialmente **weightlifting**.
 - :books: Leitor de autores russos nas horas vagas.
-
+##
 
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
