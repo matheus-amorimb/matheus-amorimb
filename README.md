@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-remote_theme: pages-themes/minimal@v0.2.0
-
 <!--
 **matheus-amorimb/matheus-amorimb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
