@@ -1,3 +1,4 @@
+<!--
 ## Matheus Batista
 
 Atualmente estudante de Engenharia Elétrica na UFMG se aventurando no mundo de Ciência de Dados, Machine learning e Deep learning.
@@ -23,3 +24,4 @@ Atualmente estudante de Engenharia Elétrica na UFMG se aventurando no mundo de 
 &nbsp;<a href="https://medium.com/@matheus-amorimb">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>&nbsp;
+-->
