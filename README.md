@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey you!<br><br>I'm Matheus.<br><br>Junior Back End Developer based in Brazil<br><br>Currently contributing to Industrial IT at IHM Stefanini<br><br>On a journey to create solutions rooted in data
 
 
